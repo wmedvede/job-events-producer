@@ -1,0 +1,15 @@
+{
+  "id": "8d5d3a38-cff5-4531-86c3-099b975bbcba",
+  "source": "http://localhost:8680",
+  "type": "CancelJobRequest",
+  "time": "2021-11-26T12:02:22.365896+01:00",
+  "data": {
+    "id": "128"
+  },
+  "specversion": "1.0",
+  "kogitoprocinstanceid": "aa",
+  "kogitoprocid": "aa",
+  "kogitorootprociid": "rootProcessInstanceId",
+  "kogitorootprocid": "rootProcessId",
+  "kogitoaddons": "experimental-addon"
+}
